@@ -1,0 +1,20 @@
+.contact-container {
+    padding: 2rem;
+    background-color: #D3B8AE; /* Beige */
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  label {
+    margin-bottom: 1rem;
+  }
+  
+  input, textarea {
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+    border: 1px solid #6F4E37;
+    border-radius: 4px;
+  }

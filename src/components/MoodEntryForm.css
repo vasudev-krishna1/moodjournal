@@ -1,0 +1,35 @@
+.entry-form {
+    display: flex;
+    flex-direction: column;
+    background-color: #F5E0C3; /* Beige */
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin-top: 2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  }
+  
+  .entry-form label {
+    margin-bottom: 1rem;
+  }
+  
+  .entry-form input,
+  .entry-form textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #6F4E37; /* Coffee brown */
+    border-radius: 4px;
+  }
+  
+  .entry-form button {
+    background-color: #6F4E37; /* Coffee brown */
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 1rem;
+  }
+  
+  .entry-form button:hover {
+    background-color: #4A3C2F; /* Darker coffee brown */
+  }

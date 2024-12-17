@@ -1,0 +1,12 @@
+.chart-container {
+    padding: 2rem;
+    background-color: #F5E0C3; /* Beige background for the chart container */
+    border-radius: 8px;
+    margin-top: 2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for better visibility */
+  }
+  
+  .chart-container h2 {
+    color: #6F4E37; /* Coffee brown for the chart title */
+    margin-bottom: 1rem;
+  }

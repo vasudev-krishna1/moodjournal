@@ -1,0 +1,16 @@
+.navbar {
+    background-color: #6F4E37; /* Coffee brown */
+    color: white;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .navbar-links {
+    display: flex;
+  }
+  
+  .navbar-links a {
+    margin-left: 1rem;
+    color: white;
+  }
